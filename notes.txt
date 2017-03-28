@@ -1,6 +1,11 @@
+Running Notes file
+
 ------------------------------------------------------------
 Ping with Timestamp
 
 ping google.com | while read pong; do echo "$(date): $pong"; done
 
 ------------------------------------------------------------
+
+
+-
